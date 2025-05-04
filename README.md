@@ -6,6 +6,7 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/priyeshgautam/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/priyeshgautam/LeetCode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/priyeshgautam/LeetCode/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/priyeshgautam/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/priyeshgautam/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/priyeshgautam/LeetCode/tree/master/1338-queries-quality-and-percentage) |
