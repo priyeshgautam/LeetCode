@@ -40,6 +40,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/priyeshgautam/LeetCode/tree/master/0118-pascals-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/priyeshgautam/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -53,4 +54,16 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/priyeshgautam/LeetCode/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
