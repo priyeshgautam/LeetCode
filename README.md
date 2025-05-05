@@ -35,4 +35,16 @@
 | [1942-primary-department-for-each-employee](https://github.com/priyeshgautam/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/priyeshgautam/LeetCode/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/priyeshgautam/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
