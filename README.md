@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/priyeshgautam/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
