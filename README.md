@@ -41,6 +41,7 @@
 | [0031-next-permutation](https://github.com/priyeshgautam/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/priyeshgautam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/priyeshgautam/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/priyeshgautam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/priyeshgautam/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/priyeshgautam/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/priyeshgautam/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyeshgautam/LeetCode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyeshgautam/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
