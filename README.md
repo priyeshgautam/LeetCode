@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/priyeshgautam/LeetCode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/priyeshgautam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/priyeshgautam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/priyeshgautam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyeshgautam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyeshgautam/LeetCode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/priyeshgautam/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
