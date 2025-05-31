@@ -56,11 +56,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyeshgautam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyeshgautam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyeshgautam/LeetCode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyeshgautam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/priyeshgautam/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/priyeshgautam/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -84,5 +86,6 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyeshgautam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
