@@ -69,6 +69,7 @@
 | [0031-next-permutation](https://github.com/priyeshgautam/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/priyeshgautam/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/priyeshgautam/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/priyeshgautam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@
 | [0014-longest-common-prefix](https://github.com/priyeshgautam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/priyeshgautam/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/priyeshgautam/LeetCode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/priyeshgautam/LeetCode/tree/master/0686-repeated-string-match) |
 ## Math
