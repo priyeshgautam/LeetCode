@@ -91,6 +91,7 @@
 | [0013-roman-to-integer](https://github.com/priyeshgautam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyeshgautam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/priyeshgautam/LeetCode/tree/master/0686-repeated-string-match) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyeshgautam/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/priyeshgautam/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
