@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyeshgautam/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/priyeshgautam/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/priyeshgautam/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -90,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/priyeshgautam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/priyeshgautam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyeshgautam/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/priyeshgautam/LeetCode/tree/master/0686-repeated-string-match) |
 ## Math
@@ -103,5 +105,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyeshgautam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/priyeshgautam/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
