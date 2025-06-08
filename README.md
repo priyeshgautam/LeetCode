@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyeshgautam/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/priyeshgautam/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -143,4 +144,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/priyeshgautam/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/priyeshgautam/LeetCode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/priyeshgautam/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
