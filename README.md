@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyeshgautam/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/priyeshgautam/LeetCode/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/priyeshgautam/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyeshgautam/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
